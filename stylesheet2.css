@@ -1,0 +1,13 @@
+input[type="submit"]{
+    background-color: #4CAF50;
+    color:white;
+    padding:10px;
+    border:none;
+    cursor:pointer;
+    border-radius:20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+ }
+h1{
+    text-align: center;
+}

@@ -1,0 +1,50 @@
+.container{
+    width:300px;
+    margin:125px auto auto auto;
+    padding:20px;
+    background-color:#d4d8e6;
+    border-radius: 20px;
+    text-align: center;
+ }
+
+ h2{
+    text-align:center;
+ }
+
+ form{
+    display:flex;
+    flex-direction:column;
+    align-content:center;
+ }
+
+ label{
+    margin-bottom:10px;
+ }
+
+ input[type="text"],
+ input[type="password"],
+ input[type="phonenumber"]{
+    padding:5px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border:2px solid black;
+ }
+
+ input[type="submit"]{
+    background-color: #4CAF50;
+    color:white;
+    padding:10px;
+    border:none;
+    cursor:pointer;
+    border-radius:20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+ }
+
+ body{
+    background-image:url("https://cdn.pixabay.com/photo/2017/02/15/10/39/salad-2068220_640.jpg");
+    border: 5px;
+    padding:10px;
+    margin:5px;
+    background-size:cover;
+ }
